@@ -1,1 +1,2 @@
-# Backend Challenges boilerplate - package.json
+# Request Header Parser
+# Project for FreeCodeCamp by Aaron Kelley
