@@ -1,20 +1,17 @@
 {
-  "name": "request-header-parser-api",
-  "version": "1.0.0",
-  "description": "",
+  "name": "fcc-learn-npm-package-json",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
+  },
+  "engines": {
+    "node": "4.4.5"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aaronk221/req-header-parser.git"
-  },
-  "author": "aaronk221",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/aaronk221/req-header-parser/issues"
-  },
-  "homepage": "https://github.com/aaronk221/req-header-parser#readme"
+    "url": "https://idontknow/todo.git"
+  }
 }
